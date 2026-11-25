@@ -1,0 +1,1 @@
+# Early-Detection-and-Forecasting-System-for-Lumpy-Skin-Disease
